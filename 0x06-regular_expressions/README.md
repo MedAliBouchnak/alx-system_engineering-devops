@@ -1,1 +1,1 @@
-Regular exp
+Regular expressions
